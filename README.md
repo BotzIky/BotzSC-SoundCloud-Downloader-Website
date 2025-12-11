@@ -359,12 +359,6 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ---
 
-## ❗ Important
-
-If you want to disable ads, remove the last `<script>` tags at the bottom of `index.html` that are used for ad loading.
-
----
-
 ## ⭐ Star History
 
 If you find this project useful, please consider giving it a star on GitHub!
